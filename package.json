@@ -6,8 +6,5 @@
     "packages": [
       "packages/*"
     ]
-  },
-  "engines": {
-    "node": ">=15"
   }
 }
